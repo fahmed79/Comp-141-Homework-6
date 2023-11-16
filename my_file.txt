@@ -1,0 +1,10 @@
+pwd
+ls - l
+cat
+cd
+apt- get
+brew
+nano
+txt
+sudo
+
